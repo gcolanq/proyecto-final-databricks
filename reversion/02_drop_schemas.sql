@@ -1,0 +1,6 @@
+-- Eliminar esquemas
+-- ==========================================
+
+DROP SCHEMA IF EXISTS gold CASCADE;
+DROP SCHEMA IF EXISTS silver CASCADE;
+DROP SCHEMA IF EXISTS bronze CASCADE;
